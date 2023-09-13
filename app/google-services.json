@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533281576642",
+    "project_id": "demologin-d034e",
+    "storage_bucket": "demologin-d034e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533281576642:android:5e47a5c19b1101cecb4d5b",
+        "android_client_info": {
+          "package_name": "com.qubitsolutionlab.demo_loginfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa5dNuhGGm9kzJ7KvNyeuHf1_pXR3jJ4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
